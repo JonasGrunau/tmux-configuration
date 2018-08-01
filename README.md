@@ -1,1 +1,1 @@
-# tmux-solarized
+# tmux-configuration
